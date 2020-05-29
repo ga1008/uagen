@@ -21,7 +21,7 @@ $ pip3 install uagen
 ## 代码导入：
 
 ```
-import uagen
+from uagen import uagen
 
 random_user_agent = uagen.random_ua()       # 随机 ua
 firefox_user_agent = uagen.firefox_ua()     # firefox ua
