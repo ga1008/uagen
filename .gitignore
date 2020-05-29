@@ -1,0 +1,9 @@
+/.idea/
+/build/
+/Mr.Meeseeks.egg-info/
+/MeeseeksBox/spiders_log/
+/MeeseeksBox/test_files/
+/MeeseeksBox/spiderlogs/
+/decrypted/
+/key*
+/server.cfg*
